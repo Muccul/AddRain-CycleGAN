@@ -13,6 +13,6 @@ python train.py --dataroot ./datasets/clean2rain/ --name demo1 --batch_size 2
 python test.py --dataroot ./datasets/clean2rain/ --name demo1 --model test 
 ```
 
-![teaser](imgs/115.png)
-![teaser](imgs/2350.png)
-![teaser](imgs/g3275.png)
+![img1](imgs/115.png)
+![img2](imgs/2350.png)
+![img3](imgs/g3275.png)
